@@ -1,0 +1,245 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the movie &#039;Con Air&#039; released?",
+      "correct_answer": "1997",
+      "incorrect_answers": [
+        "1985",
+        "1999",
+        "1990"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+      "correct_answer": "Ian Fleming",
+      "incorrect_answers": [
+        "Joseph Conrad",
+        "John Buchan",
+        "Graham Greene"
+      ]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s the square root of 49?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "4",
+        "12",
+        "9"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The &quot;Tibia&quot; is found in which part of the body?",
+      "correct_answer": "Leg",
+      "incorrect_answers": [
+        "Arm",
+        "Hand",
+        "Head"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+      "correct_answer": "8 hours",
+      "incorrect_answers": [
+        "4 hours",
+        "12 hours",
+        "5 hours"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+      "correct_answer": "The Goth Family",
+      "incorrect_answers": [
+        "The Family",
+        "The Simoleon Family",
+        "The Proud Family"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
+      "correct_answer": "Head",
+      "incorrect_answers": [
+        "Arm",
+        "Leg",
+        "Chest"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the game Dark Souls, what is the name of the region you&#039;re in for the majority of the game?",
+      "correct_answer": "Lordran",
+      "incorrect_answers": [
+        "Drangleic",
+        "Oolacile",
+        "Catarina"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Terraria, what does the Wall of Flesh not drop upon defeat?",
+      "correct_answer": "Picksaw",
+      "incorrect_answers": [
+        "Pwnhammer",
+        "Breaker Blade",
+        "Laser Rifle"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
+      "correct_answer": "Cicero",
+      "incorrect_answers": [
+        "Lucien Lachance",
+        "Archimedes",
+        "Astrid"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+      "correct_answer": "Boomstick",
+      "incorrect_answers": [
+        "Bloomstick",
+        "Blastbranch",
+        "2-Pump Chump"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first Call of Duty game to include the Zombies gamemode?",
+      "correct_answer": "Call of Duty: World at War",
+      "incorrect_answers": [
+        "Call of Duty: Black Ops",
+        "Call of Duty: Modern Warfare 2",
+        "Call of Duty: Black Ops III"
+      ]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Nissan&#039;s most popular electric car?",
+      "correct_answer": "Leaf",
+      "incorrect_answers": [
+        "Tree",
+        "Deer",
+        "Roots"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the original name of the search engine &quot;Google&quot;?",
+      "correct_answer": "BackRub",
+      "incorrect_answers": [
+        "CatMassage",
+        "SearchPro",
+        "Netscape Navigator"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Mulan (1998), who is the leader of the Huns?",
+      "correct_answer": "Shan Yu",
+      "incorrect_answers": [
+        "Chien-Po",
+        "Li Shang",
+        "Fa Zhou"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is NOT a book in the Harry Potter Series?",
+      "correct_answer": "The House Elf",
+      "incorrect_answers": [
+        "The Chamber of Secrets",
+        "The Prisoner of Azkaban",
+        "The Deathly Hallows"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?",
+      "correct_answer": "Golden Mushroom",
+      "incorrect_answers": [
+        "Star",
+        "Bullet Bill",
+        "Boo"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Sid Meier&#039;s Civilization V, which World Wonder can only be built in cities on or next to a desert?",
+      "correct_answer": "Petra",
+      "incorrect_answers": [
+        "The Pyramids",
+        "Alhambra",
+        "Mausoleum of Maussollos"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+      "correct_answer": "Vladivostok",
+      "incorrect_answers": [
+        "Rostov-on-Don",
+        "Yekaterinburg",
+        "Kaliningrad"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What M83 was featured in Grand Theft Auto V&#039;s radio?",
+      "correct_answer": "Midnight City",
+      "incorrect_answers": [
+        "Outro",
+        "Reunion",
+        "Wait"
+      ]
+    }
+  ]
+}
